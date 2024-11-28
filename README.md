@@ -8,9 +8,11 @@ The data set contains ***5000*** training examples of handwritten digits
 - The 20 by 20 grid of pixels is “unrolled” into a 400-dimensional vector.
 - Each training examples becomes a single row in our data matrix **X**.
 - This gives us a ***5000 x 400*** matrix **X** where every row is a training example of a handwritten digit image.
+Below is an example of our dataset 
+![dataset_example](https://github.com/user-attachments/assets/c73aba9c-b90f-422f-b654-9cb0b0494a84)
 
 The model we are using for this project has 2 dense layers with ReLU activation and 1 output layer with Linear activation.<br>
-Below is a visualisation of the described model:
+Below is a visual representation of our model:
 ![Screenshot (130)](https://github.com/user-attachments/assets/b15855a1-17a6-427a-a622-966cf3db1f0c)
 
 Weights and Biases for each layer are:
