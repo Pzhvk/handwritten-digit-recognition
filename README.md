@@ -8,6 +8,7 @@ The data set contains ***5000*** training examples of handwritten digits
 - The 20 by 20 grid of pixels is “unrolled” into a 400-dimensional vector.
 - Each training examples becomes a single row in our data matrix **X**.
 - This gives us a ***5000 x 400*** matrix **X** where every row is a training example of a handwritten digit image.<br>
+
 Below is an example of our dataset:<br>
 ![dataset_example](https://github.com/user-attachments/assets/a3e38b39-0d2e-42da-b353-533d68d68e99)
 
